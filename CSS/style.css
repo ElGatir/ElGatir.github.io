@@ -114,15 +114,15 @@ section#welcome-section{
 }
 
 section#welcome-section::before {
-      content: '';
-      position: absolute;
-      background-image: url(https://wallpapercave.com/wp/wp2728201.jpg);
-      background-size: cover;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 0.5;
+  content: '';
+  position: absolute;
+  background-image: url(https://wallpapercave.com/wp/wp2728201.jpg);
+  background-size: cover;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.5;
 }
 
 section#welcome-section h1{
@@ -282,9 +282,9 @@ div.project-tile a{
   }
 
   div.project-tile:hover > a{
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.2rem;
   }
 
   div.project-tile a:hover{
